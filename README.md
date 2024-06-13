@@ -57,5 +57,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BokijonovS.BokijonovS" alt="Visitor Badge">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BokijonovS/BokijonovS" alt="Visitor Badge">
 </p>
