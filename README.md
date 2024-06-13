@@ -39,24 +39,23 @@
 <!-- Your Skills Section -->
 ## Skills
 
-- Programming Languages: [Languages you know]
-- Technologies: [Technologies you're proficient in]
-- Tools: [Tools you use regularly]
+- Programming Languages: Python, Django, REST-FRAMEWORK, HTML, CSS, POSTGRESQL, SQLite, pytelegrambotapi
+- Technologies: Python, SQL
 
 <!-- Your Learning Journey Section -->
 ## Learning Journey
 
-- Currently diving deeper into [Technology/Topic you're learning]
-- Excited to explore [Future Technology/Topic you're interested in]
+- Currently diving deeper into [REST-FRAMEWORK]
+- Excited to explore AI programming in python
 
 <!-- Your How to Reach Me Section -->
 ## How to Reach Me
 
 <p align="center">
-  Feel free to reach out to me via [Your Email Address] or connect with me on [Your Social Media Profiles].
+  Feel free to reach out to me via bokijonovs@gmail.com or connect with me on [Your Social Media Profiles].
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Visitor Badge">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BokijonovS.BokijonovS" alt="Visitor Badge">
 </p>
