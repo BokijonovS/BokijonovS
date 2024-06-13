@@ -57,5 +57,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BokijonovS/BokijonovS" alt="Visitor Badge">
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https://api.countapi.xyz/hit/BokijonovS.BokijonovS/visits" alt="Visitor Badge">
 </p>
+
