@@ -1,39 +1,38 @@
 <!-- Your Header -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/header.png" width="800" alt="Header Image">
+  <img src="https://prnt.sc/D4xxR2hQxNtB" width="800" alt="Header Image">
 </p>
 
 <!-- Your Introduction -->
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  I'm [Your Name], a [Your Age] year old student passionate about Information Technology. Welcome to my GitHub profile!
+  I'm [Sanatbek], a [18] year old student passionate about Information Technology. Welcome to my GitHub profile!
 </p>
 
 <!-- Your About Me Section -->
 ## About Me
 
-- 🎓 I'm currently studying [Your Current School/Program].
-- 💻 I love learning about [Your Favorite IT Topics].
-- 🌱 I’m currently learning [Current IT Skills or Technologies].
-- 📫 You can reach me via [Your Email Address] or connect with me on [Your Social Media Profiles].
+- 🎓 I'm currently studying Backend with python/django.
+- 💻 I love learning about New technologies in IT.
+- 📫 You can reach me via bokijonovs@gmail.com or connect with me on <a href="https://t.me/bokijonov_s">Telegram</a>.
 
 <!-- Your GitHub Stats -->
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=BokijonovS&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Your Top Projects -->
 ## Top Projects
 
 <p align="center">
-  <a href="Link to Project Repository 1">
-    <img src="https://github.com/yourusername/project1/blob/main/assets/screenshot.png" width="400" alt="Project 1">
+  <a href="">
+    <img src="https://prnt.sc/PjeDFR2CZXjo" width="400" alt="Project 1">
   </a>
-  <a href="Link to Project Repository 2">
-    <img src="https://github.com/yourusername/project2/blob/main/assets/screenshot.png" width="400" alt="Project 2">
+  <a href="https://github.com/BokijonovS/aristocats">
+    <img src="https://prnt.sc/0tDuV0Rb5vJ7" width="400" alt="Project 2">
   </a>
 </p>
 
