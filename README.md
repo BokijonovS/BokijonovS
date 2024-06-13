@@ -28,7 +28,7 @@
 ## Top Projects
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/BokijonovS/fruitables">
     <img src="https://prnt.sc/PjeDFR2CZXjo" width="400" alt="Project 1">
   </a>
   <a href="https://github.com/BokijonovS/aristocats">
