@@ -2,7 +2,6 @@
 <p align="center">
   ![MasterHead]<img src="https://prnt.sc/D4xxR2hQxNtB" width="800" alt="Header Image">
 </p>
-[![MasterHead](https://prnt.sc/D4xxR2hQxNtB)
 
 <!-- Your Introduction -->
 <h1 align="center">Hi there! 👋</h1>
