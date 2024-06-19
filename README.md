@@ -1,6 +1,6 @@
 <!-- Your Header -->
 <p align="center">
-  ![MasterHead]<img src="https://prnt.sc/D4xxR2hQxNtB" width="800" alt="Header Image">
+  <img src="https://prnt.sc/D4xxR2hQxNtB" width="800" alt="Header Image">
 </p>
 
 <!-- Your Introduction -->
