@@ -15,13 +15,6 @@
 - 💻 I love learning about New technologies in IT.
 - 📫 You can reach me via bokijonovs@gmail.com or connect with me on <a href="https://t.me/bokijonov_s">Telegram</a>.
 
-<!-- Your GitHub Stats -->
-## GitHub Stats
-
-
-<!-- Your Top Projects -->
-## Top Projects
-
 
 
 <!-- Your Skills Section -->
