@@ -40,7 +40,7 @@
 ## How to Reach Me
 
 <p align="center">
-  Feel free to reach out to me via bokijonovs@gmail.com or connect with me on [Your Social Media Profiles].
+  Feel free to reach out to me via bokijonovs@gmail.com or connect with me on Telegram: @BokijonovS, Instagram: @bokijonow.
 </p>
 
 <!-- Footer -->
