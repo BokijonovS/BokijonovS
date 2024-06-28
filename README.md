@@ -1,7 +1,5 @@
 <!-- Your Header -->
-<p align="center">
-  <img src="https://prnt.sc/D4xxR2hQxNtB" width="800" alt="Header Image">
-</p>
+
 
 <!-- Your Introduction -->
 <h1 align="center">Hi there! 👋</h1>
@@ -20,21 +18,11 @@
 <!-- Your GitHub Stats -->
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BokijonovS&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
 <!-- Your Top Projects -->
 ## Top Projects
 
-<p align="center">
-  <a href="https://github.com/BokijonovS/fruitables">
-    <img src="https://prnt.sc/PjeDFR2CZXjo" width="400" alt="Project 1">
-  </a>
-  <a href="https://github.com/BokijonovS/aristocats">
-    <img src="https://prnt.sc/0tDuV0Rb5vJ7" width="400" alt="Project 2">
-  </a>
-</p>
+
 
 <!-- Your Skills Section -->
 ## Skills
@@ -56,7 +44,5 @@
 </p>
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https://api.countapi.xyz/hit/BokijonovS.BokijonovS/visits" alt="Visitor Badge">
-</p>
+
 
