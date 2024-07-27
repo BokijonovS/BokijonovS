@@ -14,7 +14,7 @@
 ## Skills
 
 - Programming Languages: Python, Django, REST-FRAMEWORK, HTML, CSS, POSTGRESQL, SQLite, pytelegrambotapi
-- Technologies: Python, SQL, Django, DRF
+- Technologies: Docker, Git, GitHub
 <!-- Your Learning Journey Section -->
 ## Learning Journey
 
