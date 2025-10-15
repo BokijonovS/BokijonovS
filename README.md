@@ -1,31 +1,4 @@
-<!-- <h1 align="center">Hi there! 👋</h1>
 
-<p align="center">
-  I'm Sanatbek, a 18 year old BackEnd developer passionate about Information Technology. Welcome to my GitHub profile!
-</p>
-
-<!-- Your About Me Section -->
-## About Me
-
-- 🎓 I'm currently studying Backend with python/django.
-- 💻 I love learning about New technologies in IT.
-- 📫 You can reach me via bokijonovs@gmail.com or connect with me on <a href="https://t.me/bokijonov_s">Telegram</a>.
-<!-- Your Skills Section -->
-## Skills
-
-- Programming Languages: Python, Django, REST-FRAMEWORK, HTML, CSS, POSTGRESQL, SQLite, pytelegrambotapi
-- Technologies: Docker, Git, GitHub, Postman
-<!-- Your Learning Journey Section -->
-## Learning Journey
-
-- Currently diving deeper into [REST-FRAMEWORK]
-- Excited to explore AI programming in python
-<!-- Your How to Reach Me Section -->
-## How to Reach Me
-
-<p align="center">
-  Feel free to reach out to me via bokijonovs@gmail.com or connect with me on Telegram: @BokijonovS, Instagram: @bokijonow. -->
-  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bokijonow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bokijonovs) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bokijonow) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bokijonow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bokijonovs@gmail.com) 
 
